@@ -1,2 +1,2 @@
-# WestLacost.com
+# westlacost.com
 New Repository
